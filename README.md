@@ -26,7 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bergedios&show_icons=true&locale=en&layout=compact" alt="bergedios" /></p>
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bergedios&show_icons=true&locale=en" alt="bergedios" /></p>
-<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bergedios&" alt="bergedios" /></p>
-<br />
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bergedios" alt="bergedios" height="100%" width="100%"/></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bergedios" alt="bergedios" height="75%" width="100%"/></a></p>
