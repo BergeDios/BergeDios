@@ -1,4 +1,4 @@
-<img width="100%" alt="Speak Friend and Enter" src="https://github.com/BergeDios/BergeDios/blob/main/speakfriendenter.jpg"/>
+<img width="100%" alt="Speak Friend and Enter" src="https://github.com/BergeDios/BergeDios/blob/main/yoda.jpg"/>
 <h1 align="center">Hi 👋, I'm Santiago Goyret</h1>
 <h3 align="center">A passionate self learner from Uruguay, work hard, try, fail, try again.</h3>
 
