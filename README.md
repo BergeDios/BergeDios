@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bergedios" alt="bergedios" /></a> </p>
 
-- 🔭 I’m currently working on **a personal project with friends, using the MERN stack**. You can visit the MVP product we made for our Final Project of Holberton School Foundations at [](https://event-fi.com)
+- 🔭 I’m currently working on **a personal project with friends, using the MERN stack**. You can visit the MVP product we made for our Final Project of Holberton School Foundations at [event-fi.com](https://event-fi.com)
 
 - 🌱 I’m currently learning **the MERN stack**
 
