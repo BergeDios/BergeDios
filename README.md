@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago Goyret</h1>
 <h3 align="center">A passionate self learner from Uruguay, work hard, try, fail, try again.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bergedios&label=Profile%20views&color=0e75b6&style=flat" alt="bergedios" /> </p>
+<p align="left"> <img src="https://github.com/BergeDios/BergeDios/blob/main/santi.jpg.jpg" alt="bergedios" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bergedios" alt="bergedios" /></a> </p>
 
