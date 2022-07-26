@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/santi.goyret" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santi.goyret" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/santiago-goyret"><img src="https://github.com/BergeDios/Event-fi/blob/main/static/img/linkedin.png" width="18px;"  height="18px;" z-index="999" alt=""/>	 LinkedIn</a>
+<a href="https://www.linkedin.com/in/santiago-goyret"><img src="https://github.com/BergeDios/Event-fi/blob/main/static/img/linkedin.png" width="40"  height="30" z-index="999" alt="linkedin"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
